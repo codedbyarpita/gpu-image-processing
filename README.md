@@ -16,8 +16,5 @@ This project demonstrates CPU vs GPU acceleration using:
 - Image blur using CPU
 - Parallel GPU blur using CUDA
 - TensorFlow-based image processing
--🚀 GPU Image Processing System
-
-
 
 
